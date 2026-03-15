@@ -1,0 +1,8 @@
+
+{
+  "name": "NoteGenie - AI Lecture Summarizer",
+  "description": "Transform your lectures into smart notes, mind maps, and key concepts using Gemini AI. Supports live transcription, audio file uploads, and interactive visual notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
