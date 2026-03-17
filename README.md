@@ -20,3 +20,7 @@ NoteGenie is an AI-powered web application that helps students quickly understan
 4. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 5. Run the app:
    `npm run dev`
+
+## Live Demo
+
+https://notegenie-ai-lecture-summarizer.vercel.app
